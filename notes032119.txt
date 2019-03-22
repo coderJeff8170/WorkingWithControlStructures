@@ -1,0 +1,72 @@
+know where to get help 
+start a project
+
+w3schools
+stackoverflow
+
+datatypes:
+number
+string
+boolean
+undefined
+symbo
+null
+object
+array
+
+today - expressions and control flow
+
+expression is just something that has value
+
+control structures are based on booleans
+to create booleans you need comparison or logical operators
+comparison == != === < > >= <=
+
+logical ? | && :
+
+undefined is the same as false: if(!x) 
+
+literal - a number or a string
+expressions are literals or variables and combinations thereof
+
+
+identify problem then come up with an algorithm to solve
+
+there will be tasks that need to be repeated
+
+loops repeat tasks
+
+conditonals decide path of actions
+
+changing a tire is perfect way to illustrate the above
+
+loosen lugnuts
+jack car up
+take lugnuts off
+
+''          empty string
+0           zero
+NaN         Not a number
+undefined   undefined
+null        null
+false       false
+
+^^all of the above evaluate to false as logical expressions; everything else is true
+
+COMPARISON operators
+
+Equality
+
+(= is not an equals it's the assignment operator)
+
+==          abstract equals = evaluates just the value
+===         strict equals   - evalutes value and type
+
+always use strict when you're starting out as a best practice
+
+floating point
+
+chapter 7. followed by 8 and 9.
+
+
+
