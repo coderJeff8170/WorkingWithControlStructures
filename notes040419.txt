@@ -1,0 +1,20 @@
+json give you objects from databases
+classes have certain things like hasInstanceOf that are useful to determine things about the objects
+OOP object oriented progrramming
+Classes are functions using a constructor
+
+-encapsulation
+    hide implementation and expose as a method()
+    (hide the programming code and just give the useful part)
+
+-inheritance
+    properties inherited from higher levels in the prototype chain
+
+
+
+-polymorphism
+    overriding inheritance on an instance
+
+instances of a class will 
+
+
